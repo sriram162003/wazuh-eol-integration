@@ -4,7 +4,7 @@
 
 
 
-## Installation Summary (From INSTALLATION.md)
+## Installation Summary 
 
 ### Quick Install
 ```bash
