@@ -194,7 +194,7 @@ sudo nano /var/ossec/etc/rules/local_rules.xml
 | 100105| 7 |medium+EOL|
 | 100106| 5 |LOW+EOL|
 | 100107| 8 |HIGH(END OF SUPPORT)|
-|100108 | 1 |ACTIVELY SUPPORTED)|
+|100108 | 1 |ACTIVELY SUPPORTED|
 ## Step 5: Restart Wazuh
 Apply configurations
 Verify wodle execution
